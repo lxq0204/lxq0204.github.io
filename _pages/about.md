@@ -14,7 +14,7 @@ Education
 ======
 * Ph.D. in School of Software, Shandong University, 2021.09-
 * M.S. in School of Control Science and Engineering, Shandong University, 2017.09-2020.06
-* B.S. in School of Electrical and Automation Engineering, Shandong University of Science and Technology, 2013.09-201706
+* B.S. in School of Electrical and Automation Engineering, Shandong University of Science and Technology, 2013.09-2017.06
 
 Employment
 ======
