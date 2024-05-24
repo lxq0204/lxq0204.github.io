@@ -2,7 +2,7 @@
 title: "Unsupervised Domain Adaptation via Class Aggregation for Text Recognition"
 collection: publications
 permalink: /publication/2024-05-24-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper is about ......'
 date: 2023-10-01
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 slidesurl: # URL
