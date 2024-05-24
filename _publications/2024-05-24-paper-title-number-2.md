@@ -2,7 +2,7 @@
 title: "Meta-Learning based Prototype-relation Network for Few-shot Classification"
 collection: publications
 permalink: /publication/2024-05-24-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about ......'
 date: 2020-10-01
 venue: 'Neurocomputing'
 slidesurl: # URL
