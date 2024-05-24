@@ -23,13 +23,13 @@ Employment
 Selected Publications
 ======
 1. **X. Liu**, P. Zhang, X. Luo, Z. Huang, and X. Xu, "TextAdapter: Self-supervised Domain Adaptation for Cross-domain Text Recognition," *IEEE Transactions on Multimedia*, DOI: 10.1109/TMM.2024.3400669.
-2. **X. Liu**, X. Ding, X. Luo, and X. Xu, "ProtoUDA: Prototype-based Unsupervised Adaptation for Cross-Domain Text Recognition," IEEE Transactions on Knowledge and Data Engineering, DOI: 10.1109/ TKDE.2023.3344761.
-3. **X. Liu**, X. Ding, X. Luo, and X. Xu, "Unsupervised Domain Adaptation via Class Aggregation for Text Recognition," IEEE Transactions on Circuits and Systems for Video Technology, vol. 33, no. 10, pp. 5617- 5630, 2023, DOI: 10.1109/TCSVT.2023.3262692.
-4. **X. Liu**, F. Zhou, J. Liu, and L. Jiang, "Meta-Learning based Prototype-relation Network for Few-shot Classification," Neurocomputing, vol. 383, pp. 224-234, 2020.
-5. **X. Liu** and F. Zhou, " Improved Curriculum Learning using SSM for Facial Expression Recognition," The Visual Computer, vol. 36, pp. 1635-1649, 2020.
-6. J. Li, **X. Liu**, X. Luo, and X. Xu, "VOLTER: Visual Collaboration and Dual-Stream Fusion for Scene Text Recognition," IEEE Transactions on Multimedia, vol. 26, pp. 6437-6448, 2024.
-7. X. Ding, X. **Liu, X**. Luo, and X. Xu, "DOC: Text Recognition via Dual Adaptation and Clustering, " IEEE Transactions on Multimedia, vol. 25, pp. 9071-9081, 2023.
-8. X. Liu, **X. Liu**, B. Wang, X. Luo, and X. Xu, "Arbitrary-shaped Scene Text Detection with Scoring Mask Quality, " in 2022 IEEE International Conference on Multimedia and Expo (ICME), 2022, pp. 1–6.
+2. **X. Liu**, X. Ding, X. Luo, and X. Xu, "ProtoUDA: Prototype-based Unsupervised Adaptation for Cross-Domain Text Recognition," *IEEE Transactions on Knowledge and Data Engineering*, DOI: 10.1109/ TKDE.2023.3344761.
+3. **X. Liu**, X. Ding, X. Luo, and X. Xu, "Unsupervised Domain Adaptation via Class Aggregation for Text Recognition," *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 33, no. 10, pp. 5617- 5630, 2023, DOI: 10.1109/TCSVT.2023.3262692.
+4. **X. Liu**, F. Zhou, J. Liu, and L. Jiang, "Meta-Learning based Prototype-relation Network for Few-shot Classification," *Neurocomputing*, vol. 383, pp. 224-234, 2020.
+5. **X. Liu** and F. Zhou, " Improved Curriculum Learning using SSM for Facial Expression Recognition," *The Visual Computer*, vol. 36, pp. 1635-1649, 2020.
+6. J. Li, **X. Liu**, X. Luo, and X. Xu, "VOLTER: Visual Collaboration and Dual-Stream Fusion for Scene Text Recognition," *IEEE Transactions on Multimedia*, vol. 26, pp. 6437-6448, 2024.
+7. X. Ding, X. **Liu, X**. Luo, and X. Xu, "DOC: Text Recognition via Dual Adaptation and Clustering, " *IEEE Transactions on Multimedia*, vol. 25, pp. 9071-9081, 2023.
+8. X. Liu, **X. Liu**, B. Wang, X. Luo, and X. Xu, "Arbitrary-shaped Scene Text Detection with Scoring Mask Quality, " in *2022 IEEE International Conference on Multimedia and Expo (ICME)*, 2022, pp. 1–6.
 
 Awards and Achievements
 ------
