@@ -41,7 +41,7 @@ Patents
 
 Awards and Achievements
 ------
-* 2023   Excellent Student Cadre of Shandong University
+* 2023:   Excellent Student Cadre of Shandong University
 * 2022   Excellent Student Cadre of Shandong University
 * 2021   Excellent Master's Thesis of Shandong Province
 * 2020   Excellent Graduates of Shandong Province
@@ -54,6 +54,6 @@ Awards and Achievements
 
 Academic Competitions
 ------
-* 2021   China Graduate Mathematical Contest in Modeling    National Third Prize
-* 2019   China Graduate Mathematical Contest in Modeling    National Second Prize
-* 2018   China Graduate Mathematical Contest in Modeling    National Third Prize
+* 2021   China Graduate Mathematical Contest in Modeling,    National Third Prize
+* 2019   China Graduate Mathematical Contest in Modeling,   National Second Prize
+* 2018   China Graduate Mathematical Contest in Modeling,    National Third Prize
