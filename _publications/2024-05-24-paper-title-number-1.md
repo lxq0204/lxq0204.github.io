@@ -2,7 +2,7 @@
 title: "Improved Curriculum Learning using SSM for Facial Expression Recognition"
 collection: publications
 permalink: /publication/2024-05-24-paper-title-number-1
-excerpt: 'This paper is about the Facial expression recognition'
+excerpt: 'This paper is about the facial expression recognition task.'
 date: 2020-10-01
 venue: 'The Visual Computer'
 slidesurl: # URL
