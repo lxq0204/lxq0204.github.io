@@ -1,0 +1,12 @@
+---
+title: "ProtoUDA: Prototype-based Unsupervised Adaptation for Cross-Domain Text Recognition"
+collection: publications
+permalink: /publication/2024-05-24-paper-title-number-4
+excerpt: 'This paper is about ....'
+date: 2024-02-17
+venue: 'IEEE Transactions on Knowledge and Data Engineering'
+paperurl: 'http://lxq0204.github.io/files/paper4.pdf'
+citation: 'X. Liu, X. Ding, X. Luo, and X. Xu. (2024). &quot;ProtoUDA: Prototype-based Unsupervised Adaptation for Cross-Domain Text Recognition.&quot; <i>IEEE Transactions on Knowledge and Data Engineering</i>. DOI: 10.1109/ TKDE.2023.3344761.'
+---
+
+Text recognition reads from real scene text or handwritten text, facilitating many real-world applications such as driverless cars, visual Q&A, and image-based machine translation. Although impressive results have been achieved in single-domain text recognition, it still suffers from great challenges in cross-domain due to the domain gaps among the synthetic text, the real scene text, and the handwritten text. Existing standard unsupervised domain adaptation (UDA) methods struggle to solve the text recognition task since they view a domain or a text image (containing a character sequence) as a whole, ignoring the subunits that make up the sequence. In the paper, we present a Prototyped-based Unsupervised Domain Adaptation method for text recognition (ProtoUDA), where the class prototypes are computed from the source domain, target domain, and the mixed (source-target) domain, respectively. Technically, ProtoUDA initially extracts pseudo-labeled character features under word-level supervised information. Further, based on these character features, we propose two parallel and complementary modules to perform class-level and instance-level alignment, which explicitly transfer the knowledge learned in the source domain to the target domain. Among them, class-level alignment is to close the distance between the similar source prototypes and target prototypes. The instance-level alignment is based on contrastive learning, making the character instances of the mixed domain close to the corresponding class mixed prototype while staying away from other class mixed prototypes. To our knowledge, we are the first to adopt contrastive learning in UDA-based text recognition tasks. Extensive experiments on several benchmark datasets show the superiority of our method over state-of-the-art methods.
