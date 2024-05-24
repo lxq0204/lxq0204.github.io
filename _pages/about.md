@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-    I am currently pursuing a Ph.D. in artificial intelligence at the School of Software, Shandong University, Jinan, China. I received the M.S. degree in control engineering in 2020 from Shandong University, China. My research interests include deep learning, computer vision, domain adaptation, and OCR.
+I am currently pursuing a Ph.D. in artificial intelligence at the School of Software, Shandong University, Jinan, China. I received the M.S. degree in control engineering in 2020 from Shandong University, China. My research interests include deep learning, computer vision, domain adaptation, and OCR.
 
 
 Education
