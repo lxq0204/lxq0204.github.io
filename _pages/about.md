@@ -22,6 +22,7 @@ Employment
 
 Selected Publications
 ======
+*  **X. Liu**, P. Zhang, X. Luo, Z. Huang, and X. Xu, "Noisy-Aware Unsupervised Domain Adaptation for Scene Text Recognition," *IEEE Transactions on Image Processing*.
 *  **X. Liu**, H. Liu, Z. Chen, X. Luo, and X. Xu, "Hierarchical Multi-label Learning for Incremental Multilingual Text Recognition," *ACM MM 2024*.
 *  **X. Liu**, P. Zhang, X. Luo, Z. Huang, and X. Xu, "TextAdapter: Self-supervised Domain Adaptation for Cross-domain Text Recognition," *IEEE Transactions on Multimedia*, DOI: 10.1109/TMM.2024.3400669.
 *  **X. Liu**, X. Ding, X. Luo, and X. Xu, "ProtoUDA: Prototype-based Unsupervised Adaptation for Cross-Domain Text Recognition," *IEEE Transactions on Knowledge and Data Engineering*, DOI: 10.1109/ TKDE.2023.3344761.
