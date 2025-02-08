@@ -43,15 +43,17 @@ Patents
 
 Awards and Achievements
 ------
+* 2024   **Shandong University Presidential Scholarship**
+* 2024   **National Scholarship**
 * 2023   Excellent Student Cadre of Shandong University
 * 2022   Excellent Student Cadre of Shandong University
 * 2021   Excellent Master's Thesis of Shandong Province
 * 2020   Excellent Graduates of Shandong Province
-* 2019   National Scholarship
+* 2019   **National Scholarship**
 * 2018   Excellent Student Cadre of Shandong University
 * 2017   Excellent Graduates of Shandong Province
-* 2016   National Scholarship
-* 2015   Excellent Student of Shandong Province
+* 2016   **National Scholarship**
+* 2015   **Excellent Student of Shandong Province**
 * 2014   National Encouragement scholarship
 
 Academic Competitions
