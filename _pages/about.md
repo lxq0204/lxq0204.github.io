@@ -43,6 +43,7 @@ Patents
 
 Awards and Achievements
 ------
+* 2024   **China Association for Science and Technology Young Talent Support Project for Doctoral Students**
 * 2024   **Shandong University Presidential Scholarship**
 * 2024   **National Scholarship**
 * 2023   Excellent Student Cadre of Shandong University
