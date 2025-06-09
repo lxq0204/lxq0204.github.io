@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Ph.D. in artificial intelligence at the School of Software, Shandong University, Jinan, China. I received the M.S. degree in control engineering in 2020 from Shandong University, China. My research interests include deep learning, computer vision, domain adaptation, and OCR.
+I am currently a postdoctoral fellow at the School of Software, Shandong University. I a Ph.D. in artificial intelligence
+from Shandong University in 2024 and an M.S. in Control engineering from Shandong University in 2020. My research interests include computer vision, multimedia analysis, unsupervised domain adaptation, and scene text recognition and
+understanding.
 
 
 Education
 ======
-* Ph.D. in School of Software, Shandong University, 2021.09-
+* Ph.D. in School of Software, Shandong University, 2021.09-2024.12
 * M.S. in School of Control Science and Engineering, Shandong University, 2017.09-2020.06
 * B.S. in School of Electrical and Automation Engineering, Shandong University of Science and Technology, 2013.09-2017.06
 
@@ -22,7 +24,7 @@ Employment
 
 Selected Publications
 ======
-*  **X. Liu**, P. Zhang, X. Luo, Z. Huang, and X. Xu, "Noisy-Aware Unsupervised Domain Adaptation for Scene Text Recognition," *IEEE Transactions on Image Processing*.
+*  **Xiao-Qian Liu**, Peng-Fei Zhang, Xin Luo, Zi Huang, and Xin-Shun Xu*, "Noisy-Aware Unsupervised Domain Adaptation for Scene Text Recognition," *IEEE Transactions on Image Processing*, vol. 33 , pp. 6550-6563, 2024.
 *  **X. Liu**, H. Liu, Z. Chen, X. Luo, and X. Xu, "Hierarchical Multi-label Learning for Incremental Multilingual Text Recognition," *ACM MM 2024*.
 *  **X. Liu**, P. Zhang, X. Luo, Z. Huang, and X. Xu, "TextAdapter: Self-supervised Domain Adaptation for Cross-domain Text Recognition," *IEEE Transactions on Multimedia*, DOI: 10.1109/TMM.2024.3400669.
 *  **X. Liu**, X. Ding, X. Luo, and X. Xu, "ProtoUDA: Prototype-based Unsupervised Adaptation for Cross-Domain Text Recognition," *IEEE Transactions on Knowledge and Data Engineering*, DOI: 10.1109/ TKDE.2023.3344761.
