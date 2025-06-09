@@ -7,33 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral fellow at the School of Software, Shandong University. I a Ph.D. in artificial intelligence
-from Shandong University in 2024 and an M.S. in Control engineering from Shandong University in 2020. My research interests include computer vision, multimedia analysis, unsupervised domain adaptation, and scene text recognition and
-understanding.
+I am currently a postdoctoral fellow at the School of Software, Shandong University. I receive a Ph.D. in artificial intelligence from Shandong University in 2024 and an M.S. in Control engineering from Shandong University in 2020. My research interests include computer vision, multimedia analysis, unsupervised domain adaptation, and scene text recognition and understanding.
 
 
 Education
 ======
-* Ph.D. in School of Software, Shandong University, 2021.09-2024.12
-* M.S. in School of Control Science and Engineering, Shandong University, 2017.09-2020.06
-* B.S. in School of Electrical and Automation Engineering, Shandong University of Science and Technology, 2013.09-2017.06
+* Ph.D. in School of Software, Shandong University, 2021.09-2024.12. **(graduated six months early)**
+* M.S. in School of Control Science and Engineering, Shandong University, 2017.09-2020.06.
+* B.S. in School of Electrical and Automation Engineering, Shandong University of Science and Technology, 2013.09-2017.06.
 
 Employment
 ======
-* Civil worker, in Wang Qingtuo Township, Wuqing District, Tianjin, China, 2020.08-2021.05
+* Civil worker, in Tianjin, China, 2020.08-2021.05.
 
 Selected Publications
 ======
-*  **Xiao-Qian Liu**, Peng-Fei Zhang, Xin Luo, Zi Huang, and Xin-Shun Xu*, "Noisy-Aware Unsupervised Domain Adaptation for Scene Text Recognition," *IEEE Transactions on Image Processing*, vol. 33 , pp. 6550-6563, 2024.
-*  **X. Liu**, H. Liu, Z. Chen, X. Luo, and X. Xu, "Hierarchical Multi-label Learning for Incremental Multilingual Text Recognition," *ACM MM 2024*.
-*  **X. Liu**, P. Zhang, X. Luo, Z. Huang, and X. Xu, "TextAdapter: Self-supervised Domain Adaptation for Cross-domain Text Recognition," *IEEE Transactions on Multimedia*, DOI: 10.1109/TMM.2024.3400669.
-*  **X. Liu**, X. Ding, X. Luo, and X. Xu, "ProtoUDA: Prototype-based Unsupervised Adaptation for Cross-Domain Text Recognition," *IEEE Transactions on Knowledge and Data Engineering*, DOI: 10.1109/ TKDE.2023.3344761.
-*  **X. Liu**, X. Ding, X. Luo, and X. Xu, "Unsupervised Domain Adaptation via Class Aggregation for Text Recognition," *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 33, no. 10, pp. 5617- 5630, 2023, DOI: 10.1109/TCSVT.2023.3262692.
-*  **X. Liu**, F. Zhou, J. Liu, and L. Jiang, "Meta-Learning based Prototype-relation Network for Few-shot Classification," *Neurocomputing*, vol. 383, pp. 224-234, 2020.
-*  **X. Liu** and F. Zhou, " Improved Curriculum Learning using SSM for Facial Expression Recognition," *The Visual Computer*, vol. 36, pp. 1635-1649, 2020.
-*  J. Li, **X. Liu**, X. Luo, and X. Xu, "VOLTER: Visual Collaboration and Dual-Stream Fusion for Scene Text Recognition," *IEEE Transactions on Multimedia*, vol. 26, pp. 6437-6448, 2024.
-*  X. Ding, X. **Liu, X**. Luo, and X. Xu, "DOC: Text Recognition via Dual Adaptation and Clustering, " *IEEE Transactions on Multimedia*, vol. 25, pp. 9071-9081, 2023.
-*  X. Liu, **X. Liu**, B. Wang, X. Luo, and X. Xu, "Arbitrary-shaped Scene Text Detection with Scoring Mask Quality, " in *2022 IEEE International Conference on Multimedia and Expo (ICME)*, 2022, pp. 1–6.
+*  **Xiao-Qian Liu**, Peng-Fei Zhang, Xin Luo, Zi Huang, and Xin-Shun Xu*, "Noisy-Aware Unsupervised Domain Adaptation for Scene Text Recognition," IEEE Transactions on Image Processing (**TIP**), vol. 33, pp. 6550-6563, 2024. (CCF-A)
+*  **Xiao-Qian Liu**, Xue-Ying Ding, Xin Luo, and Xin-Shun Xu*, "ProtoUDA: Prototype-based Unsupervised Adaptation for Cross-Domain Text Recognition," IEEE Transactions on Knowledge and Data Engineering (**TKDE**), vol. 36, no. 12,pp. 9096-9108, 2024. (CCF-A)
+*  **Xiao-Qian Liu**, Ming-Hui Liu, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu*, "Hierarchical Multi-label Learning for Incremental Multilingual Text Recognition," in the ACM Interna tional Conference on Multimedia (**MM**), 2024, 8750-8758. (CCF-A)
+*  **Xiao-Qian Liu**, Peng-Fei Zhang, Xin Luo, Zi Huang, and Xin-Shun Xu*, "TextAdapter: Self-supervised Domain Adaptation for Cross-domain Text Recognition," IEEE Transactions on Multimedia (**TMM**), vol. 26, pp. 9854-9865, 2024. (CCF-B)
+*  **Xiao-Qian Liu**, Xue-Ying Ding, Xin Luo, and Xin-Shun Xu*, "Unsupervised Domain Adaptation via Class Aggregation for Text Recognition," IEEE Transactions on Circuits and Systems for Video Technology, vol. 33, no. 10, pp. 5617- 5630, 2023. (CCF-B).
+*  **Xiao-Qian Liu**, and Feng-Yu Zhou*, "Meta-Learning based Prototype-relation Network for Few-shot Classification," Neurocomputing, vol. 383, pp. 224-234, 2020.
+*  **Xiao-Qian Liu** and Feng-Yu Zhou*, " Improved Curriculum Learning using SSM for Facial Expression Recognition," The Visual Computer, vol. 36, pp. 1635-1649, 2020.
+*  Jia-Nan Li, **Xiao-Qian Liu**, Xin Luo, and Xin-Shun Xu*, "VOLTER: Visual Collaboration and Dual-Stream Fusion for Scene Text Recognition," IEEE Transactions on Multimedia (**TMM**), vol. 26, pp. 6437-6448, 2024.
+*  Xue-Ying Ding, **Xiao-Qian Liu**, Xin Luo, and Xin-Shun Xu*, "DOC: Text Recognition via Dual Adaptation and Clustering, " IEEE Transactions on Multimedia (**TMM**), vol. 25, pp. 9071-9081, 2023.
+*  Xin-Yu Liu, **Xiao-Qian Liu**, Bin Wang, Xin Luo, and Xin-Shun Xu*, "Arbitrary-shaped Scene Text Detection with Scoring Mask Quality, " in 2022 IEEE International Conference on Multimedia and Expo (**ICME**), 2022, pp. 1–6.
 
 
 Patents
