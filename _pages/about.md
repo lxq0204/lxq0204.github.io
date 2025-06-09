@@ -56,7 +56,7 @@ Services
   * Neural Networks
 
 * Reviewer for conferences
-  * ACM Interna tional Conference on Multimedia
+  * ACM International Conference on Multimedia
 
 
 Awards and Achievements
