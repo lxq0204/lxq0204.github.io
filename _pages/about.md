@@ -51,8 +51,8 @@ Projects
 Services
 ------
 * Reviewer for journals
-- IEEE Transactions on Multimedia
-- Neural Networks
+* ** IEEE Transactions on Multimedia
+-- Neural Networks
 
 * Reviewer for conferences
 - ACM Interna tional Conference on Multimedia
