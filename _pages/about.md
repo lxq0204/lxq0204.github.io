@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to 刘晓倩 Homepage"
+title: "Welcome to Xiao-Qian Liu's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,14 +12,14 @@ I am currently a postdoctoral fellow at the School of Software, Shandong Univers
 
 Education
 ------
-* 2021.09-2024.12  Shandong University  Ph.D. **(graduated six months early)**
-* 2017.09-2020.06  Shandong University  M.S.
-* 2013.09-2017.06  Shandong University of Science and Technology B.S.
+* 2021.09-2024.12,  Shandong University,  Ph.D. **(graduated six months early)**
+* 2017.09-2020.06,  Shandong University,  M.S.
+* 2013.09-2017.06,  Shandong University of Science and Technology, B.S.
 
 Employment
 ------
-* 2025.07--         Special Funding Postdoctoral Fellow, Shandong University 
-* 2020.08--2021.05  Civil worker, Tianjin
+* 2025.07--,         Special Funding Postdoctoral Fellow, Shandong University. 
+* 2020.08--2021.05,  Civil worker, Tianjin.
 
 
 Selected Publications
