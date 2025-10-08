@@ -23,6 +23,7 @@ Employment
 
 Selected Publications
 ------
+*  **Xiao-Qian Liu**, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu*, "Self-Supervised Discovery of Cross-Lingual Shared Knowledge for Continual Text Recognition," IEEE Transactions on Image Processing (**TIP**), 2025. (CCF-A)
 *  **Xiao-Qian Liu**, Peng-Fei Zhang, Xin Luo, Zi Huang, and Xin-Shun Xu*, "Noisy-Aware Unsupervised Domain Adaptation for Scene Text Recognition," IEEE Transactions on Image Processing (**TIP**), vol. 33, pp. 6550-6563, 2024. (CCF-A)
 *  **Xiao-Qian Liu**, Xue-Ying Ding, Xin Luo, and Xin-Shun Xu*, "ProtoUDA: Prototype-based Unsupervised Adaptation for Cross-Domain Text Recognition," IEEE Transactions on Knowledge and Data Engineering (**TKDE**), vol. 36, no. 12,pp. 9096-9108, 2024. (CCF-A)
 *  **Xiao-Qian Liu**, Ming-Hui Liu, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu*, "Hierarchical Multi-label Learning for Incremental Multilingual Text Recognition," in the ACM International Conference on Multimedia (**MM**), 2024, 8750-8758. (CCF-A)
@@ -38,7 +39,8 @@ Selected Publications
 
 Patents
 ------
-*  An Image Classifier Construction, Image Recognition Method and System based on Prototype Network Few-shot Learning. No. 201910563501.3.
+*  Method and System for Incremental Multilingual Text Recognition Based on Shared Knowledge Mining. No. ZL202511061575.9.
+*  An Image Classifier Construction, Image Recognition Method and System based on Prototype Network Few-shot Learning. No. ZL201910563501.3.
 *  A Facial Expression Recognition Method and Device based on Curriculum Learning. No. 201910122892.5.
 *  A Meta Learning Few-shot based Facial Expression Recognition Method and System. No. 201910465071.1.
 *  A Facial Expression Recognition System based on Curriculum Learning. No. 2019SR0470556.
@@ -46,7 +48,8 @@ Patents
 
 Projects
 ------
-
+* 2025   The Postdoctoral Fellowship Program of CPSF (B)
+* 2024   **China Association for Science and Technology Young Talent Support Project for Doctoral Students**
 
 Services
 ------
@@ -61,18 +64,17 @@ Services
 
 Awards and Achievements
 ------
-* 2024   **China Association for Science and Technology Young Talent Support Project for Doctoral Students**
 * 2024   **Shandong University President's Award**
-* 2024   **National Scholarship**
+* 2024   National Scholarship
 * 2023   Excellent Student Cadre of Shandong University
 * 2022   Excellent Student Cadre of Shandong University
 * 2021   Excellent Master's Thesis of Shandong Province
 * 2020   Excellent Graduates of Shandong Province
-* 2019   **National Scholarship**
+* 2019   National Scholarship
 * 2018   Excellent Student Cadre of Shandong University
 * 2017   Excellent Graduates of Shandong Province
-* 2016   **National Scholarship**
-* 2015   **Excellent Student of Shandong Province**
+* 2016   National Scholarship
+* 2015   Excellent Student of Shandong Province
 * 2014   National Encouragement scholarship
 
 
