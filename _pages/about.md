@@ -12,13 +12,14 @@ I am currently a postdoctoral fellow at the School of Software, Shandong Univers
 
 Education
 ------
-* Ph.D. in School of Software, Shandong University, 2021.09-2024.12. **(graduated six months early)**
-* M.S. in School of Control Science and Engineering, Shandong University, 2017.09-2020.06.
-* B.S. in School of Electrical and Automation Engineering, Shandong University of Science and Technology, 2013.09-2017.06.
+* 2021.09-2024.12  Shandong University  Ph.D. **(graduated six months early)**
+* 2017.09-2020.06  Shandong University  M.S.
+* 2013.09-2017.06  Shandong University of Science and Technology B.S.
 
 Employment
 ------
-* Civil worker, in Tianjin, China, 2020.08-2021.05.
+* 2025.07--        Special Funding Postdoctoral Fellow, Shandong University 
+* 2020.08-2021.05  Civil worker, Tianjin
 
 
 Selected Publications
@@ -41,15 +42,15 @@ Patents
 ------
 *  Method and System for Incremental Multilingual Text Recognition Based on Shared Knowledge Mining. No. ZL202511061575.9.
 *  An Image Classifier Construction, Image Recognition Method and System based on Prototype Network Few-shot Learning. No. ZL201910563501.3.
-*  A Facial Expression Recognition Method and Device based on Curriculum Learning. No. 201910122892.5.
-*  A Meta Learning Few-shot based Facial Expression Recognition Method and System. No. 201910465071.1.
+*  A Facial Expression Recognition Method and Device based on Curriculum Learning. No. ZL201910122892.5.
+*  A Meta Learning Few-shot based Facial Expression Recognition Method and System. No. ZL201910465071.1.
 *  A Facial Expression Recognition System based on Curriculum Learning. No. 2019SR0470556.
 
 
 Projects
 ------
 * 2025   The Postdoctoral Fellowship Program of CPSF (B)
-* 2024   **China Association for Science and Technology Young Talent Support Project for Doctoral Students**
+* 2024   China Association for Science and Technology Young Talent Support Project for Doctoral Students
 
 Services
 ------
