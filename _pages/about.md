@@ -34,10 +34,10 @@ Selected Publications
 *  **Xiao-Qian Liu** and Feng-Yu Zhou*, "Improved Curriculum Learning using SSM for Facial Expression Recognition," The Visual Computer, vol. 36, pp. 1635-1649, 2020. (CCF-C)
 *  Ming-Hui Liu, **Xiao-Qian Liu**, Xin Luo, and Xin-Shun Xu*, "DATA: Multi-Disentanglement Based Contrastive Learning for Open-World Semi-Supervised Deepfake Attribution," IEEE Transactions on Multimedia (**TMM**), 2025. (CCF-B)
 *  Qian Zhang, Jiarui Zhao, **Xiao-Qian Liu**, Yu-Wei Zhan, Xin Luo, Zhen-Duo Chen, Xin Luo*, and Xin-Shun Xu, "Hypergraph-Based CLIP Hashing for Unsupervised Cross-Modal Retrieval," Knowledge-Based Systems (**KBS**), 2025. (CCF-C)
-*  Jia-Ying Zhang, **Xiao-Qian Liu**, Zhi-Yuan Xue, Xin Luo, and Xin-Shun Xu*, "MAGIC: A Multi Granularity Domain Adaptation Method forText Recognition," Pattern Recognition (**PR**), vol. 161, pp. 111229, 2025.
-*  Jia-Nan Li, **Xiao-Qian Liu**, Xin Luo, and Xin-Shun Xu*, "VOLTER: Visual Collaboration and Dual-Stream Fusion for Scene Text Recognition," IEEE Transactions on Multimedia (**TMM**), vol. 26, pp. 6437-6448, 2024.
-*  Xue-Ying Ding, **Xiao-Qian Liu**, Xin Luo, and Xin-Shun Xu*, "DOC: Text Recognition via Dual Adaptation and Clustering, " IEEE Transactions on Multimedia (**TMM**), vol. 25, pp. 9071-9081, 2023.
-*  Xin-Yu Liu, **Xiao-Qian Liu**, Bin Wang, Xin Luo, and Xin-Shun Xu*, "Arbitrary-shaped Scene Text Detection with Scoring Mask Quality, " in 2022 IEEE International Conference on Multimedia and Expo (**ICME**), 2022, pp. 1–6.
+*  Jia-Ying Zhang, **Xiao-Qian Liu**, Zhi-Yuan Xue, Xin Luo, and Xin-Shun Xu*, "MAGIC: A Multi Granularity Domain Adaptation Method forText Recognition," Pattern Recognition (**PR**), vol. 161, pp. 111229, 2025. (CCF-B)
+*  Jia-Nan Li, **Xiao-Qian Liu**, Xin Luo, and Xin-Shun Xu*, "VOLTER: Visual Collaboration and Dual-Stream Fusion for Scene Text Recognition," IEEE Transactions on Multimedia (**TMM**), vol. 26, pp. 6437-6448, 2024. (CCF-B)
+*  Xue-Ying Ding, **Xiao-Qian Liu**, Xin Luo, and Xin-Shun Xu*, "DOC: Text Recognition via Dual Adaptation and Clustering, " IEEE Transactions on Multimedia (**TMM**), vol. 25, pp. 9071-9081, 2023. (CCF-B)
+*  Xin-Yu Liu, **Xiao-Qian Liu**, Bin Wang, Xin Luo, and Xin-Shun Xu*, "Arbitrary-shaped Scene Text Detection with Scoring Mask Quality, " in 2022 IEEE International Conference on Multimedia and Expo (**ICME**), 2022, pp. 1–6. (CCF-B)
 
 
 Patents
@@ -65,7 +65,7 @@ Services
   * ACM International Conference on Multimedia
 
 
-Awards and Achievements
+Awards
 ------
 * 2024   **Shandong University President's Award**
 * 2024   National Scholarship
@@ -80,9 +80,3 @@ Awards and Achievements
 * 2015   Excellent Student of Shandong Province
 * 2014   National Encouragement scholarship
 
-
-Academic Competitions
-------
-* 2021   China Graduate Mathematical Contest in Modeling,    National Third Prize
-* 2019   China Graduate Mathematical Contest in Modeling,    National Second Prize
-* 2018   China Graduate Mathematical Contest in Modeling,    National Third Prize
