@@ -24,7 +24,7 @@ Employment
 
 Selected Publications
 ------
-*  **Xiao-Qian Liu**, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu*, "Self-Supervised Discovery of Cross-Lingual Shared Knowledge for Continual Text Recognition," IEEE Transactions on Image Processing (**TIP**), 2025. (CCF-A)
+*  **Xiao-Qian Liu**, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu*, "Self-Supervised Discovery of Cross-Lingual Shared Knowledge for Continual Text Recognition," IEEE Transactions on Image Processing (**TIP**), vol. 34, pp. 6524-6536, 2025. (CCF-A)
 *  **Xiao-Qian Liu**, Peng-Fei Zhang, Xin Luo, Zi Huang, and Xin-Shun Xu*, "Noisy-Aware Unsupervised Domain Adaptation for Scene Text Recognition," IEEE Transactions on Image Processing (**TIP**), vol. 33, pp. 6550-6563, 2024. (CCF-A)
 *  **Xiao-Qian Liu**, Xue-Ying Ding, Xin Luo, and Xin-Shun Xu*, "ProtoUDA: Prototype-based Unsupervised Adaptation for Cross-Domain Text Recognition," IEEE Transactions on Knowledge and Data Engineering (**TKDE**), vol. 36, no. 12,pp. 9096-9108, 2024. (CCF-A)
 *  **Xiao-Qian Liu**, Ming-Hui Liu, Zhen-Duo Chen, Xin Luo, and Xin-Shun Xu*, "Hierarchical Multi-label Learning for Incremental Multilingual Text Recognition," in the ACM International Conference on Multimedia (**MM**), 2024, 8750-8758. (CCF-A)
